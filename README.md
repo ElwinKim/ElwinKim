@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ElwinKim
 - 👀 I’m interested in Software developing and Data engineering.
-- 🌱 I’m currently learning Computer Engineering at Algonquin college and Data engineering at Udacity.
+- 🌱 I’m currently learning Computer Engineering at Algonquin college.
 - 📫 How to reach me: kim00404@algonquinlive.com
 
 <!---
