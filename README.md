@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ElwinKim
-- 👀 I’m interested in Software developing and Data engineering.
+- 👀 I’m interested in Backend and DevOps.
 - 🌱 I’m currently learning Computer Engineering at Algonquin college.
 - 📫 How to reach me: kim00404@algonquinlive.com
 
