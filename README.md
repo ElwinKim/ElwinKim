@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ElwinKim
-- 👀 I’m interested in Backend and DevOps.
+- 👀 I’m a Junior .NET Developer
 - 🌱 I’m currently learning Computer Engineering at Algonquin college.
 - 💻 I'm building Backend for Worship Sounds Live as a volunteer.
 - 📫 How to reach me: kim00404@algonquinlive.com
