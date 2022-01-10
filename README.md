@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ElwinKim
-- 👀 I’m a Junior .NET Developer
+- 👀 I’m a Junior Software Developer
 - 💻 I'm building Frontend and Backend for Worship Sounds Live as a volunteer.
 - 📫 How to reach me: elwinkim06@gmail.com
 
